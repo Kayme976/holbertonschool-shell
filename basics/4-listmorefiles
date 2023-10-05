@@ -1,2 +1,2 @@
 #!/bin/bash
-man ls
+ls -a -l

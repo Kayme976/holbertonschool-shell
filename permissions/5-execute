@@ -1,2 +1,2 @@
-#!/bin/nash
+#!/bin/bash
 chmod u+x hello

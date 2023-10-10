@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n10 /etc/passwd
+sed -n"1,10" /etc/passwd

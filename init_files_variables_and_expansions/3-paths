@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PATH -type d | wc -l
+find -mindeph 1 -type d | wc -l

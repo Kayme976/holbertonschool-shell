@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindeph 1 -type d | wc -l
+echo $PATH | tr ':' "\n" | wc  -1
